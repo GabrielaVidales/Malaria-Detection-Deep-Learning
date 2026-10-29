@@ -1,0 +1,11 @@
+# Data and models (too large for GitHub)
+cell_images/
+cell_images.zip
+*.h5
+*.keras
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
